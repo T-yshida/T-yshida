@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+https://github.com/krc24a19/Risaburou.git
+https://github.com/Okakayade/BuyBuyMemory.git
+
 <!--
 **T-yshida/T-yshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
